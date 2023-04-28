@@ -1,0 +1,83 @@
+.nav-bg{
+    background: conic-gradient(from 225deg at 40% -4%, #1f005c, #7d0061, #bc365d, #e6745c, #ffb56b);
+}
+
+.text-purple{
+    color: #800080;
+}
+
+.bg-purple{
+    background-color: #800080;
+}
+
+/* Explore Hidden Places */
+.explore-shadow{
+    box-shadow: 1.3rem 1.3rem 1.3rem rgb(0 0 0 / 60%);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.explore-shadow:hover{
+    margin-left: 0px;
+    margin-right: 0px; 
+    box-shadow: 0.3rem 0.3rem 0.3rem rgb(0 0 0 / 20%);
+}
+
+
+/* Wall of Adventures */
+.wallcard{
+    margin-top: -30px;
+}
+
+.box-shadow{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card-one {
+    height: 215px;
+    transition: 0.3s ease-in-out;
+  }
+
+  .card-one:hover {
+    height: 450px;
+  }
+
+.card-one .content {
+    position: relative;
+    margin-top: -140px;
+    padding: 10px 15px;
+    color: #111;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.3s ease-in-out;
+  }
+
+  .card-one:hover .content {
+    visibility: visible;
+    opacity: 1;
+    margin-top: -10px;
+    transition-delay: 0.3s;
+  }
+
+.bg-social{
+    background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
+}
+
+.bg-footer{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.i-font{
+    font-size: 25px;
+}
+
+.border-dotted{
+    border-bottom: dashed 1px #dee2e6;
+}
+
+.scrollUp {
+    position: fixed;
+    bottom: 70px;
+    right: 30px;
+  }

@@ -1,0 +1,48 @@
+.chandigarhBanner{
+    background-image: url("https://www.privatedetectiveshyderabad.com/img/chandigarh-banner.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.shimlaBanner{
+    background-image: url("https://cdn1.tripoto.com/media/filter/tst/img/1524784/Image/1578397190_8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.manaliBanner{
+    background-image: url("https://cdn1.tripoto.com/media/filter/nl/img/2174137/Image/1632482080_8manali.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mumbaiBanner{
+    background-image: url("https://img.freepik.com/premium-vector/mumbai-skyline-with-color-buildings-blue-sky-reflections-vector-illustration-business-travel-tourism-concept-with-modern-architecture-image-presentation-banner-placard-web-site_119523-5258.jpg?w=2000");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.goaBanner{
+    background-image: url("https://jypholiday.com/wp-content/uploads/2021/01/goa-banner.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bangaloreBanner{
+    background-image: url("https://www.shutterstock.com/image-vector/bangalore-city-skyline-black-white-260nw-630415274.jpg");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.eventBanner{
+    background-image: url("../Images/Bike-Ride-Destinations.jpg");
+    height: 720px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
